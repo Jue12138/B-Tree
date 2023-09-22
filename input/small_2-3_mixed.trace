@@ -1,0 +1,12 @@
+3
+load,input/baby_2-3_tree.json
+ins,7,value7
+ins,9,value9
+ins,8,value8
+del,9
+del,7
+ins,0,value0
+ins,6,value6
+qry,8
+dump,output/tree_dump_0.json
+qry_path,output/queries.values

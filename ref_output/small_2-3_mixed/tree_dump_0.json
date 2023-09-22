@@ -1,0 +1,60 @@
+{
+    "m": 3,
+    "tree": {
+        "k": [
+            2,
+            5
+        ],
+        "v": [
+            "value2",
+            "value5"
+        ],
+        "c": [
+            {
+                "k": [
+                    0,
+                    1
+                ],
+                "v": [
+                    "value0",
+                    "value1"
+                ],
+                "c": [
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "k": [
+                    3,
+                    4
+                ],
+                "v": [
+                    "value3",
+                    "value4"
+                ],
+                "c": [
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "k": [
+                    6,
+                    8
+                ],
+                "v": [
+                    "value6",
+                    "value8"
+                ],
+                "c": [
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ]
+    }
+}
