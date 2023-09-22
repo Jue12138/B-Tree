@@ -6,5 +6,3 @@ This project contains an implementation of a B-tree data structure in Python. B-
 1. Insertion of keys
 2. Deletion of keys
 3. Search for keys
-4. Traversal methods (In-order, Pre-order, Post-order)
-5. Supports configurable tree order
